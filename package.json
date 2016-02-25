@@ -1,9 +1,9 @@
 {
   "name": "guatonstallman",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "Adrián Salgado <devutwubs@gmail.com>",
-  "description": "Just having some fun.",
+  "description": "",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
@@ -21,6 +21,6 @@
     "hubot-slack": "^3.4.2"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "4.1.1"
   }
 }
